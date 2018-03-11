@@ -2,6 +2,5 @@
 <manifest>
 	<remote name="ian" fetch="https://github.com/b10102016/" />
 	<project path="device/phh/treble" name="device_phh_treble" remote="ian" revision="android-8.1" />
-	<project path="hardware/interfaces" name="treble_test_hardware_interface" remote="ian" revision="master"/>
 </manifest>
 
