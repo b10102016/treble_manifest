@@ -3,7 +3,5 @@
 <remote name="phh" fetch="https://github.com/phhusson/" />
 <remote name="ian" fetch="https://github.com/b10102016/"/>
 
-<remove-project name="platform/hardware/interfaces" />
-<project path="hardware/interfaces" name="treble_test_hardware_interface" remote="ian" revision="android-8.1.0_r15-hal_test" />
 
 </manifest>
